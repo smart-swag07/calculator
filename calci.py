@@ -14,4 +14,4 @@ elif operator=='*':
 elif operator=='/':
      res=num1/num2
 
-print(f"Result of {num1}{operator}{num2} is {res:.2f}")
+print(f"Result of {num1}{operator}{num2} : {res:.2f}")
